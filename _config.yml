@@ -2,15 +2,15 @@ site: Gray - Single column blog and portfolio Jekyll theme
 url: # url
 author: # your name
 author:
-  name: # your name
-  email: # your email 
+  name: Emma # your name
+  email: emma.mphuong@gmail.com # your email
   url: # url
-  avatar: 
-title: Gray - Single column blog and portfolio Jekyll theme
-description: Gray - Single column blog and portfolio Jekyll theme
-logo: 
-image: 
-twitter: # twitter 
+  avatar:
+title: www.trackcovid19.tech
+description: 18 month rock 'n roll with CoViD-19
+logo:
+image:
+twitter: # twitter
 twitter:
   username: # twitter
   creator: # twitter
@@ -18,11 +18,12 @@ twitter:
 social:
   name: Ronalds Vilcins
   links:
-    - https://twitter.com/example
-    - https://www.dribbble.com/example
-    - https://github.com/example
-    - https://codepen.io/example
-  
+    # - https://twitter.com/example
+    # - https://www.dribbble.com/example
+    # - https://github.com/example
+    # - https://codepen.io/example
+      - https://www.facebook.com/emma.phuong.ng
+
 repository: ronv/website
 
 permalink: pretty
@@ -34,7 +35,7 @@ disqus:
 paginate:            1000
 paginate_path:       "/page:num/"
 baseurl:             ""
-  
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
@@ -63,7 +64,7 @@ collections:
   art:
     output: true
     permalink: /art/:slug
-  
+
 defaults:
   -
     scope:
@@ -87,8 +88,8 @@ defaults:
       path: ""
       type: "projects"
     values:
-      layout: "project"     
-      
+      layout: "project"
+
   - scope:
       path: "assets/images"
     values:

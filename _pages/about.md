@@ -3,21 +3,34 @@ layout: page
 title: About
 ---
 
-## Gray - Single column blog and portfolio Jekyll theme 
+## About me
 
-Minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under 3kb. Perfect for your personal website, blog and portfolio.
+Hi, my name is Emma. I am interested in applying AI for Social Good, especially Healthcare. You can learn more about why I started this blog from the first [article](./2020/03/11/ten-reasons)
 
-### Key features
+### What could you find here about CoViD-19?
 
-- seo optimized
-- weighs under 3kb
-- portfolio/blog/tag pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
-- json feed
-- http security headers
+- Summary.
+- Note.
+- Highlight.
+- Tutorials.
+- In-depth analysis.
+- Visualization.
+- Useful links.
+- Random essay.
+- Interviews.
+
+### What key topics will be talk about here?
+
+- Landscape of how the world act towards CoViD-19.
+- Machine Learning or its fancy name, Artificial Intelligence.
+- Virtual conferences around the world.
+- Healthcare.
+- Insurance.
+- Privacy.
+- Economy,
+- Tech startup.
+- And more.
+
+### An old version
+
+You can check the previous [Google Site](https://sites.google.com/view/trackcovidtech/home)
