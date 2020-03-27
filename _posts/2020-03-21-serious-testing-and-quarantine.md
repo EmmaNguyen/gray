@@ -5,7 +5,7 @@ description: Lorem Ipsum is simply dummy text
 summary: Serious testing and quarantine is a key to combat CoViD-19
 tags: [css]
 ---
-
+Video: https://youtu.be/e3gCbkeARbY
 
 Found a friend post mentioned about the effectiveness of containment CNBC about fever medics and clinics.
 

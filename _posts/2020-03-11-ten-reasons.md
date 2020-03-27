@@ -3,7 +3,7 @@ layout: post
 title: Ten reasons why I start to blog on this site
 description: It is time to write!
 summary: It is time to write!
-tags: [css]
+tags: [note, getStarted]
 ---
 **1. It is time to write!**
 
