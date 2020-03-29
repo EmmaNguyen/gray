@@ -3,7 +3,7 @@ layout: post
 title: Therapeutic Intervention
 description: It is neither a cure nor a long term solution.
 summary: It is neither a cure nor a long term solution.
-tags: [note, CoViD-19]
+tags: [note]
 ---
 
 I found a post of member in an active social learning group about CoViD-19 about doctors in India using a drug combination of HIV, Malaria and Swine Flu to treat patient.

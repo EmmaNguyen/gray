@@ -3,7 +3,7 @@ layout: post
 title: Who should be prioritized for CPR seats and emergent rooms?
 description: Your mother with a chronic disease, your 70-year-old grandfather or your children?
 summary: Your mother with a chronic disease, your 70-year-old grandfather or your children?
-tags: [note, covid19]
+tags: [note]
 ---
 
 **L**ast night, my social media news feed got an update from a Italian senior calling people to stay at home for the benefit of all. She shared a concern about an overwhelming healthcare system with a critical question. It has been around 24 hours since the government decided to lock down an entire region with 16 million people. It includes Milan - the finance and fashion heart of Italy where you could find the best air traveling deals to the rest of the world.

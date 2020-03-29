@@ -3,7 +3,7 @@ layout: post
 title: Highlight from news
 description: the U.S., Canada, Europe, and safe hands challenge.
 summary: the U.S., Canada, Europe, and safe hands challenge.
-tags: [highlight, CoVid-19]
+tags: [highlight, CoVid19]
 ---
 
 14/3/2019 - Highlight from news:

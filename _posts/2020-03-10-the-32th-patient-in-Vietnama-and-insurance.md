@@ -3,7 +3,7 @@ layout: post
 title: The 32th Patient in Vietnam and Insurance
 description: The 32th Patient in Vietnam and Insurance
 summary: The 32th Patient in Vietnam and Insurance
-tags: [note, CoVid-19]
+tags: [note]
 ---
 
 The famous story of the Vietnam media is a story of the 32th patient - A female, Vietnam citizen, 24 years old showing symptoms when traveling in London. Her father hired [a jet plane Falcon 8X worth $360,000](https://www.google.com/url?q=https%3A%2F%2Ftuoitre.vn%2Fgia-thue-chuyen-bay-rieng-dua-benh-nhan-covid-19-thu-32-ve-vn-khoang-8-3-ti-dong-20200310200433385.htm&sa=D&sntz=1&usg=AFQjCNE6HjaJdkX8i34DwrN0pGMj5l1KQw) to only bring her back to Vietnam for a public treatment in Ho Chi Minh city. She was diagnosed with lung damage. On the same day, Vietnam Social Academy announced [a temporary shutdown](https://www.google.com/url?q=https%3A%2F%2Ftuoitre.vn%2Fgia-thue-chuyen-bay-rieng-dua-benh-nhan-covid-19-thu-32-ve-vn-khoang-8-3-ti-dong-20200310200433385.htm&sa=D&sntz=1&usg=AFQjCNE6HjaJdkX8i34DwrN0pGMj5l1KQw) in one week because of a visit from Vietnam officials - the 21th patient. Counting down from the outbreak, we are the only country with no death. [The first 16 positive cases](https://www.google.com/url?q=https%3A%2F%2Fwww.aljazeera.com%2Fnews%2F2020%2F02%2Finfected-patients-vietnam-cured-coronavirus-miracle-200228035007608.html&sa=D&sntz=1&usg=AFQjCNFv76wcR3_v4KzQJrSZE_gB10VQgw) were cured by public doctors without paying hospital bills.

@@ -3,7 +3,7 @@ layout: post
 title: Dear young people
 description: "You are not invincible"
 summary: "You are not invincible"
-tags: [note, summary, CoViD-19]
+tags: [note, summary]
 ---
 
 

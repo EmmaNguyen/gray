@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Infodemic
-description: Scam, fraud, maleware, ransomware.
-summary: Scam, fraud, maleware, ransomware.
-tags: [note, CoViD-19]
+description: Scam, fraud, malware, ransomware.
+summary: Scam, fraud, malware, ransomware.
+tags: [note]
 ---
 
 A few days ago, a friend in Singapore sent me a link to a new app called[ contact tracing](https://www.gov.sg/article/help-speed-up-contact-tracing-with-tracetogether) made by the Singaporean Government.

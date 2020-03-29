@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Dear young people
+title: Highlight
 description: Lorem Ipsum is simply dummy text
 summary: Lorem Ipsum is simply dummy text.
-tags: [css]
+tags: [hightlight]
 ---
 
 The US announced a National emergency which will open an access to 50B.

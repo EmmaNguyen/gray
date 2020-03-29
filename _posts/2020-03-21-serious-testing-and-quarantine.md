@@ -3,7 +3,7 @@ layout: post
 title: Test, test, test
 description: Lorem Ipsum is simply dummy text
 summary: Serious testing and quarantine is a key to combat CoViD-19
-tags: [css]
+tags: [note]
 ---
 Video: https://youtu.be/e3gCbkeARbY
 

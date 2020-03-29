@@ -3,7 +3,7 @@ layout: post
 title: Date Rate Math
 description: oday a post about the Math of CoViD-19 Death Rate appears on my news feed. Seems like people not interested in working numbers.
 summary: Today a post about the Math of CoViD-19 Death Rate appears on my news feed. Seems like people not interested in working numbers.
-tags: [css]
+tags: [note]
 ---
 Today a post about the Math of CoViD-19 Death Rate appears on my news feed. Seems like people not interested in working numbers.
 
