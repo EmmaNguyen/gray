@@ -5,7 +5,7 @@ title: About
 
 ## About me
 
-Hi, my name is Emma. I am interested in applying AI for Social Good, especially Healthcare. You can learn more about why I started this blog from the first [article](./2020/03/11/ten-reasons)
+Hi, my name is Emma. I am interested in applying AI for Social Good, especially Healthcare. You can learn more about why I started this blog from the first [article](./2020/03/19/ten-reasons)
 
 ### What could you find here about CoViD-19?
 
