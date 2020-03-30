@@ -17,14 +17,14 @@ Back in 2019, it was still super hard to talk about climate change. The more I t
 
 During a trip to a healthcare competition in Switzerland, I came up with an idea of using health topics to solve a problem. It is a mobile app to quickly reveal your skin issue by three simple steps. Take a picture. Get your early diagnostic. Share your results with friends, family, and insurance.
 
-[](https://emmablogimg.s3.amazonaws.com/Selection_012.png)
+![](https://emmablogimg.s3.amazonaws.com/Selection_012.png)
 
 ## We got a grant by Pioneer Community...
 With bits of help from friends in Vietnam and Japan to run a scratchy model as a top 1% from a healthcare competition in 2018. And then a web app was available as an MVP two days later. Since then, I moved around Switzerland, France, and Germany to talk to people, test user experience and validate the ideas. Eventually, I was able to connect to a health incubator and talk to a data science team to learn more about their working process.
 
 A few months later, we were nominated by an online accelerator as a Pioneer in the Healthcare track.  Here's our information:
 
-[](https://emmablogimg.s3.amazonaws.com/Selection_024.png)
+![](https://emmablogimg.s3.amazonaws.com/Selection_024.png)
 
 ## A key challenge to the healthcare revolution
 There was a big barrier to healthcare. It is a privacy-preserving technology for data sharing unless you have to work for insurance or hospital.
@@ -32,8 +32,6 @@ There was a big barrier to healthcare. It is a privacy-preserving technology for
 It was what happened when I talked to a friend who tried to recruit me as a data scientist for her university in Oregon, the US. Another time when I talked to an innovation department of an insurance company in Switzerland.
 
 A few months, I was lucky to quickly find a solution at the biggest AI research conference in Vancouver, Canada by something called private AI. It allows us to utilize the advancement of predictions, but your data is on your device without sharing it with another third party. Nonetheless, this technology is still in the early stage and supported by big tech companies. I want to open these gates to more companies.
-
-[](https://emmablogimg.s3.amazonaws.com/Selection_024.png
 
 ## The unexpected situation with CoViD-19
 Late 2019, a new disease called CoViD-19 started to outbreak in China. My home country was quickly impacted one month later. On March 11th, 2020, the WHO officially announced it as a pandemic.
@@ -46,6 +44,6 @@ It is where I put summaries of the WHO, highlights of the world, common Frequent
 
 So far, we were able to reach nearly 400 people around the world in 28 countries, mainly from the US. And we hope to expand this community to a broader audience to join the force and find more solutions for CoViD-19.
 
-[](https://emmablogimg.s3.amazonaws.com/Selection_026.png)
+![](https://emmablogimg.s3.amazonaws.com/Selection_026.png)
 
 I hope that this will help you learn more about me and BlueSkinX. Hello! Thanks for choosing us!
