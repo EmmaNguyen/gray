@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The WHO media brief - 04/02
-description: Rapid escalation and protect the vulnerable population, especially in the developing countries.
-summary: Rapid escalation and protect the vulnerable population, especially in the developing countries.
+description: Rapid escalation.
+summary: Rapid escalation.
 tags: [summary]
 ---
 
