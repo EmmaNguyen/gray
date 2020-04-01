@@ -28,7 +28,7 @@ Warning: This is my personal quick note when following the WHO livestream. It is
   *   **Comment about data of China about asymptomatic cases** > A process of how the WHO see cases - confirmed regardless of symptoms.
   *   **Ramadan festival. What is the message for the religion leader in this period of the year?** > The role of business leader and religious leader in this pandemic.
   *   **How do you see CoViD-19 in Central America and message to gov?** > They are the beginning of the outbreak. Each country has a different social, economic situation and the vulnerable population. Need to be sensitive. And reinforce the guideline on the website for countries, but need to be tailored depending on each.
-  *   **Ask about recommendations for the Kosovo situation? **
+  *   **Ask about recommendations for the Kosovo situation?**
   *   **How to recommend the progress made by the WHO on the first day?** > Need time to see a result lockdown and shutdown. Need to be persistent in the period of time because people in the frontline need certainty. Need to comprehensively and measure an impact.
   *   **Notice from General Director:** The first ever coronavirus pandemic in the world. So we are in the learning process. And its behaviour is unknown. During shutdown, there will be economical consequences. But more importantly, individuals who need to work to have daily bread. Many developing countries can not support themself during lockdown. This is when we need solidarity. Systematically assess actions during countries. List of questions of WHO put for governments.
   *   **What the WHO can do for education?** >
