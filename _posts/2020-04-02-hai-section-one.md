@@ -12,7 +12,7 @@ About one year ago, a friend persuades me to visit HAI in a morning after my off
 
 At that moment, I started to write a book about "Augmented Intelligence" with a human-centered design, but could not gather enough primary material. Unfortunately, I could not find anyone to talk.
 
-It is interesting to know that when I continue to write a book, their virtual conference came to me with the same topic.
+It is interesting to know that when I continue to write a book, their information come to me with the same topic. Seriously, I have to complete a book after a long delay.
 
 Full Agenda: [HAI Stanford](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/agenda)
 
