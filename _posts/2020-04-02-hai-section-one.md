@@ -1,10 +1,18 @@
 ---
 layout: post
-title:
-description: Rapid escalation.
-summary: Rapid escalation.
-tags: [summary]
+title: A note of a virtual conference on AI & CoViD-19 - Section 1
+description: Organized by HAI (Stanford U) 1/4.
+summary: Organized by HAI (Stanford U) 1/4.
+tags: [summary, note, book]
 ---
+
+## Side story
+
+About one year ago, a friend persuades me to visit HAI in a morning after my office hour of YC on a university campus.
+
+At that moment, I started to write a book about "Augmented Intelligence" with a human-centered design, but could not gather enough primary material. Unfortunately, I could not find anyone to talk.
+
+It is interesting to know that when I continue to write a book, their virtual conference came to me with the same topic.
 
 Full Agenda: [HAI Stanford](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/agenda)
 
