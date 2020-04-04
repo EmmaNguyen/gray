@@ -85,9 +85,9 @@ Full video: [Youtube](https://www.youtube.com/watch?v=z4105Exe23Q)
 
 *   China: early, in January; the US: late, a month behind.
 *   Three main narratives:
-    *   1. Rapid recovery from an event about age, number of people.
-    *   2. The Li Wenliang Case (the whistleblower): events happened to him at the early and later.
-    *   3. Buy the world time and botch the response, e.g. effective containment and effective treatment.
+    *    Rapid recovery from an event about age, number of people.
+    *    The Li Wenliang Case (the whistleblower): events happened to him at the early and later.
+    *    Buy the world time and botch the response, e.g. effective containment and effective treatment.
 *   The US platform used as a tool to shape the global narrative.
 
 
