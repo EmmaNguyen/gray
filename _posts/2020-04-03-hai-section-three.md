@@ -14,7 +14,7 @@ Full video: [Youtube](https://www.youtube.com/watch?v=z4105Exe23Q)
 
 # Session III: Tracking the Epidemic - 3:01:45
 
-Taiwan’s Use of Data Analytics to Control COVID-19
+## Taiwan’s Use of Data Analytics to Control COVID-19
 
 
 
@@ -30,7 +30,7 @@ Taiwan’s Use of Data Analytics to Control COVID-19
 *   Communication and Politics.
 *   Challenge for Taiwan.
 
-# Tools for Estimating Unreported Infections of COVID-19
+## Tools for Estimating Unreported Infections of COVID-19
 
 
 
@@ -41,7 +41,7 @@ Taiwan’s Use of Data Analytics to Control COVID-19
 *   An example of a viral genomic data by time series with Wuhan Data.
 *   Lead to Recommendation of face mask use by CDC
 
-# Methods for Real Time Mapping of COVID-19 Cases Worldwide
+## Methods for Real Time Mapping of COVID-19 Cases Worldwide
 
 
 
@@ -55,7 +55,7 @@ Taiwan’s Use of Data Analytics to Control COVID-19
 *   Another example with CoViD near you. 260 people reported symptoms.
 *   Mining for social measure: to understand social distancing impact with collaboration with CDC, e.g. mapping data between policy and impact.
 
-# Epidemiological Forecasting Tools for COVID-19
+## Epidemiological Forecasting Tools for COVID-19
 
 
 *   Flu background: Influenza and author story with connection with CDC
