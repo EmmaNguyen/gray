@@ -1,147 +1,168 @@
 ---
 layout: post
-title: A note of a virtual conference on AI & CoViD-19 - Section 1
+title: A note of a virtual conference on AI & CoViD-19 - Section 2
 description: Organized by HAI (Stanford U) 1/4.
 summary: Organized by HAI (Stanford U) 1/4.
 tags: [summary, note, book]
 ---
-
-## Side story
-
-About one year ago, a friend persuades me to visit HAI in a morning after my office hour of YC on a university campus.
-
-At that moment, I started to write a book about "Augmented Intelligence" with a human-centered design, but could not gather enough primary material. Unfortunately, I could not find anyone to talk.
-
-It is interesting to know that when I continue to write a book, their information come to me with the same topic. Seriously, I have to complete a book after a long delay.
 
 Full Agenda: [HAI Stanford](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/agenda)
 
 Full video: [Youtube](https://www.youtube.com/watch?v=z4105Exe23Q)
 
 
-# Session I: Landscape and Framing - Started at 9:57
+## Session II: Social impacts and biosecurity - 1:49:50
 
 
-## Challenges Responding to CoViD-19: Perspective from a Physician and Policy Maker.
+### COVID-19 Infodemic and Crisis Informatics
 
 
-## Situation
-
-*   It is difficult to set an alarm for an outbreak. There is a small group of people. The previous example was Ebola.
-*   Lack of information about the outbreak in China.
-*   First action with containment strategy with travel ban.
-*   Lost an opportunity because of a problem with testing of CDC.
-*   A summary of the US situation: California, Washington and New York vs. Florida and Texas.
-
-
-## How to use big data and AI
-
-*   Priority about surrotic testing (blood test, chopstick), e.g. how many people in the community have potentially been infected by CoViD-19 and recovered to make decisions to open up parts of the community.
-*   Data with respective to hemisphere.
-*   Thermometer to America.
-
-
-## Global challenges
+#### How the human response:
 
 
 
-*   Leadership to put the community to work together.
-*   Take what we are learning now to help the weaker public healthcare system like Africa.
+*   Crisis is often characterized by a high uncertainty and what we do individually and collectively. The Facts in this situation are often dynamic and unknown about things that need to be resolved. In forms of anxiety and actions we should take, do, go, evacuate or quarantine.
+*   Humans tend to seek knowledge and share information as a result of uncertainty and anxiety, trying to resolve an issue and uncertainty as a response of humans toward a disaster event. This process is called collective sense making (theorized both psychological and information need.)
+*   Sense making could produce rumour leading to misinformation which could cause people to take action, danger to themself and the others.
 
 
-## Direction
-
-*   How to unroll shelter-in-place: Need health authority and government with science guidance.
-*   How to connect testing and shelter in place.
-*   What could policy makers do to help people get accurate information?
+#### Challenge
 
 
-## An Academic Medical Center’s Data Science Response to a Pandemic.
+
+*   The challenge here is an absence of information and lack of good information. In that void, people will share their information with friends, family, and neighbors to make the best decision.
+*   In a connecting area, an overburden of information which information which we could trust and not trust is a challenge.
+*   Our current space of information is characterized by the second challenge, a pervasive misinformation. And an active politicization is just about everything. The condition of the crisis makes them vulnerable to this kind of message.
 
 
-## Operation plan
-
-*   How many patients, ICU bed, PPEs?
-*   Source of information:  Regional (health departments, census age breakdown) and Institutional (Lab test report, ADT feed, presenting symptoms)
-*   What we learn: Growth rate calculation, disease burden estimation.
-*   Modeling effort: Test positive rate, admission rate, ICU admission rate.
-*   Three different models:
-    *   Hospital bed and resources use.
-    *   Project county hospitalization.
-    *   Estimate case trend and policy impact.
+#### COVID-19: a storm of information.
 
 
-## Clinical care decision
 
-*   Who to be tested, a better screen, co-infection needs more aggressive care.
-*   Clinical insight
-
-
-## There are two different kinds of EMR
+*   High uncertainty and lots of anxiety. Underlying science changes day to day till we know more. Highly affect lives of people from all of the world.
+*   And we try to solve it by searching and searching for more information while our data space is undated with misinformation and disinformation.
 
 
-*   Epidemic simulation (SEIR)
-    *   Impact of policy interventions.
-    *   10-12 diverse inputs, which are all guesses at the moment.
-    *   Example: Epidemic curve - An example of Open AI
-    *   Take away: Despite everyone best’s effort, we don’t have the best accurate input.
-*   Simple calculators that tell us in the next few days:
-    *   Few inputs: cases, hospitalization, bed capacity.
-    *   Hard to get reliable counts of these simple inputs.
+#### In this situation what kinds of action should we take and do in this situation?
 
 
-## Suggestion: Use hospitalization data:
+
+*   Recommendation as a researcher, tune in about searching and sharing information that might make us become conceptable about searching for information. Analogy like a hand washing to learn more about information about infodemic.
+*   For crisis communicators, the key issue is finding information that we can trust. The role of government and agency in response. For agency, what we could recommend is truthful and followed science guidelines. And be honest about rational and specific information.
+*   Political leaders should consider facts, especially their statement could contribute to the misinformation and their tremendous effect on individual and collective person response.
+*   On the technology side, a speaker supports social media site actions to prevent misinformation and disinformation without proper critics. Encourage social media platforms and influencers to encourage a dynamic of this event about disinformation and misinformation. Cautions about fine-grained police to try to silence the collective learning process. Should allow people to search information to make sense about this event.
 
 
-*   Local region for Healthcare system capacity.
-*   There is a 12-14 days lag between intervention and an apex. Notice: day-to-day variation can be misled. A growth rate of 15% could lead to 5x-6x times higher than it is when you intervened.
-*   Example: CoViD-19 tool provided [http://surf.stanford.edu/covid-19-tools/](http://surf.stanford.edu/covid-19-tools/)
+### COVID-19: Misinformation and Disinformation
 
 
-## Issues in Responsible Reporting of CoViD-19
+
+*   This talk has been re-titled as propaganda & pandemics: how Chinese State Media shapes narratives on Coronavirus.
 
 
-*   Personal story about a speaker. Focus on containment.
-*   Tough decisions about social impact of news with example of Italy. How to keep a balance between informing and alarming.
-*   Public health crisis: misinformation, disinformation, spread of false news.
-*   Example of some rumours by the Ebola epidemic and Twitter account. Done by an  internet agency.
-*   A free press, but journalists are not well-supported.
-*   News organizations have no plan for covering epidemics/ pandemics. Lack of health/ science dedicated to writing about this topic.
-*   Solutions about information toolkits.
+#### Propaganda Spectrum with three colours
 
 
-# Global best practices in Controlling the CoViD-19 Pandemic.
+
+*   White: Transparent attribution;
+*   Grey: Source, funding, provenance of claims obscured;
+*   Black: Deliberation misattribution;
+*   The process of Chinese white propaganda through facebook with CGTN.
+*   A variety of languages. China invests heavily on the broadcast ecosystem.
 
 
-## Four responses: South Korea, China, Hong Kong and Singapore.
+#### Run Facebook Ads.
 
 
-*   Singapore: Strict containment with strong strict travel restriction, quarantine, temperature screening, rapid tests. 2000 tests/ day. Did not have a lockdown, shelter in place. Unified gov response and transparent communication with daily whats-app messaging, a comic book about quarantine, developed an app called trace contacting.
-*   South Korea: Rigours testing. Rapid testing 100k/ day, 600 test centers, 300k at peak. High-surveillance, quarantine and communication. Lack of strict lockdown.
-*   China: A bold and aggressive approach. Expand their infrastructure very rapidly: 40,000K to Wuhan and 15K epidemiologists to do contact tracing. Strategy: high tech.
-*   Hongkong: Closure of schools, businesses, amusement; wristbands for tracking those in quarantine.
+
+*   Started with positive news about China beginning January of this year.
+*   Why that was and what that was? Perception of the pandemic has been a significant PR challenge for CCP because of a slow response which they try to conceal and a news about under-reporting of deaths.
 
 
-## Common learning
+#### The coverage, attention, offset:
 
 
-*   Extensive preparation with the 2003 SARS-CoV epidemic.
-*   Swift and decisive physical distancing.
-*   Rapid testing.
-*   Frequent coordination between public and community.
+
+*   China: early, in January; the US: late, a month behind.
+*   Three main narratives:
+    *   1. Rapid recovery from an event about age, number of people.
+    *   2. The Li Wenliang Case (the whistleblower): events happened to him at the early and later.
+    *   3. Buy the world time and botch the response, e.g. effective containment and effective treatment.
+*   The US platform used as a tool to shape the global narrative.
 
 
-## Other countries
+### COVID-19: Biosecurity
 
 
-*   Example of Italy: Containment is possible if you test early with a drop 3% -> 0.25% infected.
-*   Example of Iran.
-*   The US: Lack of testing. State by states health policy.
-*   India: Massive lockdown.
-*   Taiwan: Big Data Analytics.
-*   Best practices and the future:
-    *   Human and planetary health: Environment, human and animal health.
-    *   Surveillance to detect emerging zoonotic disease in animals and humans.
-    *   Evidence-based intervention to build community resilience to prevent, adapt and respond to pandemics.
+
+*   Two topics: How we prioritize and manage biological threats and how we deal with technology to mitigate and deal with biosecurity threats, including biotech and AI
+
+
+#### Landscape:
+
+
+
+*   Long warn about biosecurity threats but it has received low and inconsistent attention compared to other areas such as nuclear weapons.
+*   The US has a defensive strategy seen by details and implementation coordinating across nations.
+
+
+#### Challenge: a scale of this threat.
+
+
+
+*   Different region for biological threat. 1. Naturally infectious disease (Pandemic) 2. Accidents in the lab while studying pathogens. 3. Intentionally misuse including proximity and bioweapons by state or non state group. The two last disagreements between experts about the scale and an effectiveness of the strategy. COVID-19 changes perception and how we deal with situations. A question about how this calcute should be changed.
+*   Estimate about conception and risk. Developed scenario about avoiding any particular index about the threat.
+
+
+#### How do we manage tech used for good and not for ill?
+
+
+
+*   Good side: diagnostic, therapeutic and vaccines.
+*   Bad side: how infectious disease can make an impact on our society. Surveillance system will not suppress our freedom after this pandemic is over.
+*   How to understand this conundrum: Genomics platforms enables therapeutics and vaccines, but also can lead to a misuse. How research can contribute to security rather undermine it.
+
+
+#### Conclusion
+
+
+
+*   COVID-19: how to manage science and technology which can mitigate and cause society harm. The stakes are high and we need to learn more how we manage risk, make real time decisions and inform.
+
+
+### “Foreign bodies”: COVID-19 and Xenophobia
+
+
+#### Framing
+
+
+
+*   Started with the China Virus, Kung Fu.
+
+
+#### Significant consequences
+
+
+
+*   It leads to a hate crime of SouthEast Asian over the course of the past few months.
+
+
+#### Two historical threats:
+
+
+
+*   The past example of the previous situation in San Francisco. An image of the Wasp, May 28, 1882 with Chinese exclusion act with a fear about economic consequence.
+*   January, 23rd, 2020, another illustration about a link of biological and economical logic.
+
+
+#### Learning
+
+
+
+*   Reinforce an idea of an adversarial environment of the Chinese body in the US to prevent biological and economical death.
+*   The present moment about the metaphor about war and pandemic. In this regime, war is no longer about battlefield and enemy bounded by time and space, but more about a surveillance project about risk assessment and mitigation.
+*   Identity and defining the enemy about fantasy and anxiety is followed by a command act of moral security.
+*   Risk is underrepresented and under containable.
+*   Conception of society is defined and redefined by this moment.
 
 <!-- Docs to Markdown version 1.0β21 -->
