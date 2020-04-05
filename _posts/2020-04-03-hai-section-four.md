@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A note of a virtual conference on AI & CoViD-19 - Section 3
+title: A note of a virtual conference on AI & CoViD-19 - Section 4
 description: Organized by HAI (Stanford U) 1/4.
 summary: Organized by HAI (Stanford U) 1/4.
 tags: [summary, note, book]
