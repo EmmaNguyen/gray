@@ -19,16 +19,12 @@ Full video: [Youtube](https://www.youtube.com/watch?v=z4105Exe23Q)
 
 #### How the human response:
 
-
-
 *   Crisis is often characterized by a high uncertainty and what we do individually and collectively. The Facts in this situation are often dynamic and unknown about things that need to be resolved. In forms of anxiety and actions we should take, do, go, evacuate or quarantine.
 *   Humans tend to seek knowledge and share information as a result of uncertainty and anxiety, trying to resolve an issue and uncertainty as a response of humans toward a disaster event. This process is called collective sense making (theorized both psychological and information need.)
 *   Sense making could produce rumour leading to misinformation which could cause people to take action, danger to themself and the others.
 
 
 #### Challenge
-
-
 
 *   The challenge here is an absence of information and lack of good information. In that void, people will share their information with friends, family, and neighbors to make the best decision.
 *   In a connecting area, an overburden of information which information which we could trust and not trust is a challenge.
@@ -37,15 +33,11 @@ Full video: [Youtube](https://www.youtube.com/watch?v=z4105Exe23Q)
 
 #### COVID-19: a storm of information.
 
-
-
 *   High uncertainty and lots of anxiety. Underlying science changes day to day till we know more. Highly affect lives of people from all of the world.
 *   And we try to solve it by searching and searching for more information while our data space is undated with misinformation and disinformation.
 
 
 #### In this situation what kinds of action should we take and do in this situation?
-
-
 
 *   Recommendation as a researcher, tune in about searching and sharing information that might make us become conceptable about searching for information. Analogy like a hand washing to learn more about information about infodemic.
 *   For crisis communicators, the key issue is finding information that we can trust. The role of government and agency in response. For agency, what we could recommend is truthful and followed science guidelines. And be honest about rational and specific information.
@@ -55,14 +47,10 @@ Full video: [Youtube](https://www.youtube.com/watch?v=z4105Exe23Q)
 
 ### COVID-19: Misinformation and Disinformation
 
-
-
 *   This talk has been re-titled as propaganda & pandemics: how Chinese State Media shapes narratives on Coronavirus.
 
 
 #### Propaganda Spectrum with three colours
-
-
 
 *   White: Transparent attribution;
 *   Grey: Source, funding, provenance of claims obscured;
@@ -73,34 +61,26 @@ Full video: [Youtube](https://www.youtube.com/watch?v=z4105Exe23Q)
 
 #### Run Facebook Ads.
 
-
-
 *   Started with positive news about China beginning January of this year.
 *   Why that was and what that was? Perception of the pandemic has been a significant PR challenge for CCP because of a slow response which they try to conceal and a news about under-reporting of deaths.
 
 
 #### The coverage, attention, offset:
 
-
-
 *   China: early, in January; the US: late, a month behind.
 *   Three main narratives:
     *    Rapid recovery from an event about age, number of people.
     *    The Li Wenliang Case (the whistleblower): events happened to him at the early and later.
-    *    Buy the world time and botch the response, e.g. effective containment and effective treatment.
+    *   3. Buy the world time and botch the response, e.g. effective containment and effective treatment.
 *   The US platform used as a tool to shape the global narrative.
 
 
 ### COVID-19: Biosecurity
 
-
-
 *   Two topics: How we prioritize and manage biological threats and how we deal with technology to mitigate and deal with biosecurity threats, including biotech and AI
 
 
 #### Landscape:
-
-
 
 *   Long warn about biosecurity threats but it has received low and inconsistent attention compared to other areas such as nuclear weapons.
 *   The US has a defensive strategy seen by details and implementation coordinating across nations.
@@ -108,15 +88,11 @@ Full video: [Youtube](https://www.youtube.com/watch?v=z4105Exe23Q)
 
 #### Challenge: a scale of this threat.
 
-
-
 *   Different region for biological threat. 1. Naturally infectious disease (Pandemic) 2. Accidents in the lab while studying pathogens. 3. Intentionally misuse including proximity and bioweapons by state or non state group. The two last disagreements between experts about the scale and an effectiveness of the strategy. COVID-19 changes perception and how we deal with situations. A question about how this calcute should be changed.
 *   Estimate about conception and risk. Developed scenario about avoiding any particular index about the threat.
 
 
 #### How do we manage tech used for good and not for ill?
-
-
 
 *   Good side: diagnostic, therapeutic and vaccines.
 *   Bad side: how infectious disease can make an impact on our society. Surveillance system will not suppress our freedom after this pandemic is over.
@@ -124,8 +100,6 @@ Full video: [Youtube](https://www.youtube.com/watch?v=z4105Exe23Q)
 
 
 #### Conclusion
-
-
 
 *   COVID-19: how to manage science and technology which can mitigate and cause society harm. The stakes are high and we need to learn more how we manage risk, make real time decisions and inform.
 
@@ -135,29 +109,21 @@ Full video: [Youtube](https://www.youtube.com/watch?v=z4105Exe23Q)
 
 #### Framing
 
-
-
 *   Started with the China Virus, Kung Fu.
 
 
 #### Significant consequences
-
-
 
 *   It leads to a hate crime of SouthEast Asian over the course of the past few months.
 
 
 #### Two historical threats:
 
-
-
 *   The past example of the previous situation in San Francisco. An image of the Wasp, May 28, 1882 with Chinese exclusion act with a fear about economic consequence.
 *   January, 23rd, 2020, another illustration about a link of biological and economical logic.
 
 
 #### Learning
-
-
 
 *   Reinforce an idea of an adversarial environment of the Chinese body in the US to prevent biological and economical death.
 *   The present moment about the metaphor about war and pandemic. In this regime, war is no longer about battlefield and enemy bounded by time and space, but more about a surveillance project about risk assessment and mitigation.
