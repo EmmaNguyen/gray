@@ -3,7 +3,7 @@ layout: post
 title: Get back to tech for healthcare
 description: It has been 100 days since the first case of COVID-19 was reported.
 summary: It has been 100 days since the first case of COVID-19 was reported.
-tags: [summary]
+tags: [note, update]
 ---
 
 It has been 100 days since the first case of COVID-19 was reported. Three months ago, I still traveled around South East Asia and North America effortlessly for networking. Healthcare startup community is small. It was surprising to learn how much attention it got in NeuRIPS, the largest conference in Artificial Intelligence last year.
@@ -19,7 +19,7 @@ It has been 100 days since the first case of COVID-19 was reported. Three months
 **In February 2020**, I got a flu-like illness in three weeks right after traveling by air. There is little information about symptoms of COVID-19 - new disease with very little scientific evidence. At that moment, Vietnam was among the first countries in the world with COVID-19 with 16 cases. Schools shut down. All music and festivals to celebrate Spring were canceled. Kids stay at home too long and parents moan on social media. [A war of face masks](https://medium.com/@xlab.contact/healthcare-2020-how-far-do-we-go-with-2019-ncov-238f8e1c2a2b). I spammed friends’ social media channels, especially in San Francisco.
 
 
-**In March 2020**, Italy became the first country to have a national lockdown. Europe became an epicenter, then several countries in the West. I officially launched this site for 10 reasons. The first goal is to reduce friction in communication about COVID-19, especially why people should [stay at home](https://www.trackcovid19.tech/2020/03/21/dear-young-people), practice physical distancing, how to [read numbers](https://www.trackcovid19.tech/2020/03/20/death-rate-math) and [science](https://www.trackcovid19.tech/2020/03/21/serious-testing-and-quarantine), [infodemic](https://www.trackcovid19.tech/2020/03/23/infodemic) and [some](https://www.trackcovid19.tech/2020/03/31/update) [pieces](https://www.trackcovid19.tech/2020/03/21/serious-testing-and-quarantine) of [Vietnam](https://www.trackcovid19.tech/2020/03/10/the-32th-patient-in-vietnama-and-insurance) and [the world perspective](https://www.trackcovid19.tech/2020/03/11/who-should-priority). My goal is raising awareness for as many people as possible.
+**In March 2020**, Italy became the first country to have a national lockdown. Europe became an epicenter, then several countries in the West. I officially launched this site for 10 reasons. The first goal was to reduce friction in communication about COVID-19, raising awareness for as many people as possible, especially why people should [stay at home](https://www.trackcovid19.tech/2020/03/21/dear-young-people), practice physical distancing, how to [read numbers](https://www.trackcovid19.tech/2020/03/20/death-rate-math) and [science](https://www.trackcovid19.tech/2020/03/21/serious-testing-and-quarantine), [infodemic](https://www.trackcovid19.tech/2020/03/23/infodemic) and [some](https://www.trackcovid19.tech/2020/03/31/update) [pieces](https://www.trackcovid19.tech/2020/03/21/serious-testing-and-quarantine) of [Vietnam](https://www.trackcovid19.tech/2020/03/10/the-32th-patient-in-vietnama-and-insurance) and [the world perspective](https://www.trackcovid19.tech/2020/03/11/who-should-priority). 
 
 
 ![John Hopkins University](https://emmablogimg.s3.amazonaws.com/Selection_055.png)
@@ -40,8 +40,6 @@ Since World War II, this is the first time humans face such a situation. But an 
 This should be a time to save lives, not blame each other. This should be time for innovation in technology to restructure the economy.
 
 **Each individual could play an important role in breaking the transmission chain and find a novel way to get our normal lives back.**
-
-
 
 Personally, I think it is the right time to come up with ideas to solve problems. So, let’s back to last December. I will write more about it. So, tune in!
 
