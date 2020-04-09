@@ -8,7 +8,7 @@ tags: [note, update]
 
 It has been 100 days since the first case of COVID-19 was reported. Three months ago, I still traveled around South East Asia and North America effortlessly for networking.
 
-Healthcare startup community is small. It is surprising to learn how much attention it got in NeuRIPS, the largest conference in Artificial Intelligence last year.
+Healthcare startup community is small. It is surprising to learn how [much attention](https://medium.com/@xlab.contact/pytorch-for-health-data-with-privacy-d40d4f8648a8) it got in NeuRIPS, the largest conference in Artificial Intelligence last year.
 
 
 ![Grandma's town](https://emmablogimg.s3.amazonaws.com/Selection_056.png)
@@ -30,7 +30,7 @@ Healthcare startup community is small. It is surprising to learn how much attent
 **In April 2020**, there are 1.5M people infected around the world. 183 out of 196 countries have people infected. COVID-19 became more [politicized by the media](https://www.npr.org/sections/coronavirus-live-updates/2020/04/08/829944795/please-don-t-politicize-this-virus-who-head-says-after-trump-threatens-funding). It appears to me more like a crisis of communication and information.
 
 
-Fairly speaking, Coronavirus in a pandemic is invisible [similar](https://medium.com/@xlab.contact/who-is-the-best-storyteller-for-climate-change-insurance-b49d78c75c1d) to [greenhouse emission](https://medium.com/@xlab.contact/an-ugly-truth-public-perception-about-climate-change-is-underwhelming-ebc2a1758907) in Climate Change. We can’t see it. We can’t measure it by ourselves. To understand, it requires experiences, broad knowledge and domain expertise in science to interpret a situation. People don’t understand, delay actions. Different from cancer, a repository disease conquers the earth in a few weeks. Fast forward, all the reports I read from the [insurance](https://www.swissre.com/institute/research/sigma-research/sigma-2019-05.html) 6 months ago suddenly turned into reality with [a trillion](https://www.trackcovid19.tech/2020/04/03/who-brief) [bills.](https://www.visualcapitalist.com/the-anatomy-of-the-2-trillion-covid-19-stimulus-bill/)
+Fairly speaking, Coronavirus in a pandemic is invisible [similar](https://medium.com/@xlab.contact/who-is-the-best-storyteller-for-climate-change-insurance-b49d78c75c1d) to [greenhouse emission](https://medium.com/@xlab.contact/an-ugly-truth-public-perception-about-climate-change-is-underwhelming-ebc2a1758907) in Climate Change. We can’t see it. We can’t measure it by ourselves. To understand, it requires experiences, broad knowledge and domain expertise in science to interpret a situation. People don’t understand, delay actions. Different from cancer, a repository disease conquers the earth in a few weeks. Fast forward, all the reports I read from [the](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/financial-services/us-fsi-dcfs-2019-insurance-industry-outlook.pdf) [insurance](https://www.swissre.com/institute/research/sigma-research/sigma-2019-05.html) 6 months ago suddenly turned into reality with [a trillion](https://www.trackcovid19.tech/2020/04/03/who-brief) [bills.](https://www.visualcapitalist.com/the-anatomy-of-the-2-trillion-covid-19-stimulus-bill/)
 
 
 ![](https://emmablogimg.s3.amazonaws.com/Selection_057.png)
