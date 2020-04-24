@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A starter guide for trustworthy AI
+title: A starter guide towards building a trustworthy AI
 description: Example and introduction. Most updated from Openmined.
 summary:  Example and introduction. Most updated from Openmined.
 tags: [ai, summary, TrustworthyAI]
@@ -15,6 +15,9 @@ What you can find in this blog:
 *   Road map of PyGrid and PySyft in 2020.
 
 
+*Most of this summary note is updated from the Content Sharing Call of OpenMined Community - one of the most active open groups about privacy-preserving data science and AI. Please go to original blogs for more details if you have any questions. Thanks Nick from Miratrix/ OpenMined to share information with me.*
+
+
 # WHY AND HOW PRIVACY TECH SHOULD BE USED IN HEALTH DATA
 
 [Link](https://blog.openmined.org/genetic-data-privacy/)
@@ -26,11 +29,10 @@ Recently, the access has been open not only for research but the consumer market
 Your genetic code is invariant and unique. Once you share, this information can not be drawn back. For example, your height, weight, body mass index, voice, age, sex and ancestry could be inferred from your gentic profile. This application called “DNA phenotyping”
 
 
-
 ![alt_text](https://emmablogimg.s3.amazonaws.com/2020-04-24-privacy-tech-ai/GENT-TESTING.jpg)
 
 
-*An example of phenotyping reconstruction on the _right whereas the real face is on the left. [Source](https://www.pnas.org/content/114/38/10166)*
+*An example of phenotyping reconstruction on the right whereas the real face is on the left. [Source](https://www.pnas.org/content/114/38/10166)*
 
 This could open to an intrusive invasion of privacy in the present. For example, discrimination and bias in insurance policies which not cover life and disabilities. A negative side effect could be a lack of trust in healthcare when people are aware of their data shared unethically or involuntarily.
 
@@ -45,8 +47,16 @@ One of examples is homomorphic encryption. Intermediate results are encrypted an
 
 A simple form of the workflow could be seen as
 
-Input data _m  _→ encrypted - enc(_m_)_ _-  → perform _function f _on data  → decrypt - enc(f(_m_)) - → f(_m_) The biggest challenges of this technique is time-consuming.
+1. Input data **m**
+2. Encryption **enc(m)**
+3. Perform function **f** on data
+4. Decryption  **enc(f(m))**
+5. Output data **f(m)**
 
+<!-- Docs to Markdown version 1.0β22 -->
+
+
+The biggest challenges of this technique is time-consuming.
 
 ### Hands-on package:  
 
@@ -132,10 +142,15 @@ This process can be trained over many nodes of data. All can be done simultaneou
 
 ## Understand secure multi-party computation
 
+One of the best advantages of SMPC is that it allows us to perform math and arithmetic operations using encrypted data. Let’s take a simple example.
+
+Andrew has a personal number. Let’s say 5. This value is only known by him. He anonymized this data into two different numbers by decomposing it into two pieces sum up to the same value. Then, he distributed these pieces of information to his friends, Bob and Marianne.
+
+
 ![alt_text](https://emmablogimg.s3.amazonaws.com/2020-04-24-privacy-tech-ai/OM-Graphic-4%403x.png)
 *Source: Openmined Blog*
 
-
+His friends perform an operation. For example multiple their numbers by two. Later return new values to Andrew. He gets a new result which is 10.
 
 ![alt_text](https://emmablogimg.s3.amazonaws.com/2020-04-24-privacy-tech-ai/OM-Graphic-5%403x.png)
 *Source: Openmined Blog*
@@ -219,5 +234,3 @@ In this section, we will learn how to host models and perform interences in a se
 ## PySyft
 
 *   Support tensor operations including dot-product, matrix multiplication and convolution.
-
-*Most of this summary note is updated from the Content Sharing Call of OpenMined Community - one of the most active open groups about privacy-preserving data science and AI. Please go to original blogs for more details if you have any questions. Thanks Nick from Miratrix/ OpenMined to share information with me.*
