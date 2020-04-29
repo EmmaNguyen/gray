@@ -49,7 +49,7 @@ There are three key points when working towards an AI system.
 3. An optimization on an entire dataset.
 
 
-![alt_text](https://emmablogimg.s3.amazonaws.com/2020-04-29-a-brief-review/image2.png)
+![alt_text](https://emmablogimg.s3.amazonaws.com/2020-04-29-a-brief-review/image3.png)
 
 
 _An example of a process to select an image by slicing function. The result we have is a photo satisfying rain and rain. Source: Openmined Blog._
@@ -62,10 +62,10 @@ Here, we pay more attention on the second highlight with three options:
 2. How to release enough data without losing privacy.
 3. How to do both with Federated Learning, especially by identifying application and critical data subset with slicing functions.
 
-![alt_text](https://emmablogimg.s3.amazonaws.com/2020-04-29-a-brief-review/image3.png)
+![alt_text](https://emmablogimg.s3.amazonaws.com/2020-04-29-a-brief-review/image4.png)
 
 
-A computer vision system in a self-driving car. Source: NVIDIA/VICTOR TANGERMANN
+_A computer vision system in a self-driving car. Source: NVIDIA/VICTOR TANGERMANN_
 
 
 ## The future: An ecosystem
@@ -82,7 +82,7 @@ Here is an hypothetical example of Federated Learning in Tesla computer vision s
 
 
 
-![alt_text](https://emmablogimg.s3.amazonaws.com/2020-04-29-a-brief-review/image4.png)
+![alt_text](https://emmablogimg.s3.amazonaws.com/2020-04-29-a-brief-review/image1.png)
 
 
 _Source: Openmined Blog_
@@ -124,7 +124,7 @@ A diagram of how SplitNN works. [Source](https://arxiv.org/abs/1810.06060)
 
 
 
-![alt_text](https://emmablogimg.s3.amazonaws.com/2020-04-29-a-brief-review/image1.png)
+![alt_text](https://emmablogimg.s3.amazonaws.com/2020-04-29-a-brief-review/image2.png)
 
 
 An illustration of how effective it is [Source](https://arxiv.org/abs/1812.00564)
