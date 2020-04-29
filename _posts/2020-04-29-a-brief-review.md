@@ -95,6 +95,8 @@ In such system, we would have an ecosystem achieve three goals:
 *   **Insights:** Data as a service.
 *   **Commodity:** Access for every manufacturer.
 
+Please go to the blog for further information. [Blog](https://blog.openmined.org/autonomous-driving-federated-learning/)
+
 
 # Case study 1: Data storage
 
