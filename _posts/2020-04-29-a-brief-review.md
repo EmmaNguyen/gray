@@ -20,7 +20,7 @@ In some industries such as healthcare, operational logistic and finances, tradit
 ![alt_text](https://emmablogimg.s3.amazonaws.com/2020-04-29-a-brief-review/image0.jpg)
 _Source: ShutterStock_
 
-Nevertheless, data privacy becomes one of the most challenging barriers for innovation. The fact is people don’t know whether their data has not been sold on or used without their consent or stored longer than intended. Users also become more aware of their data used without consent. On the other side, it is difficult to manage the consent when gathering data. All of these makes the conventional industries be difficult to move forward data protection policies, e.g. GDPR or California Privacy Consumer Act.
+Nevertheless, data privacy becomes one of the most challenging barriers for innovation. The fact is people don’t know whether their data has not been sold on or used without their consent or stored longer than intended. Users also become more awared of their data used without consent. On the other side, it is difficult to manage the consent when gathering data. All of these makes the conventional industries be difficult to move forward data protection policies, e.g. GDPR or California Privacy Consumer Act.
 
 
 # Big picture: The past, the present and the future
