@@ -11,6 +11,7 @@ Today, there were around 3.51M people around the world confirmed of getting infe
 Recently, a group of dermatologists in Belgium and the US has detected a new symptom on skin from a young male case study. It calls attention from the community. More and more evidence is found across the countries.
 
 
+[](https://emmablogimg.s3.amazonaws.com/2020-05-05/covid19_toes.jpeg)
 ## Overall statistics
 
 
