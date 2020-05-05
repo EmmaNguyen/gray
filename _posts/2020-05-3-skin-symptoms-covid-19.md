@@ -74,6 +74,10 @@ Recently, a group of dermatologists in Belgium and the US has detected a new sym
 
 *   American Academy of Dermatology: More evidence reported by dermatologists via an online registry of 300 patients this week.
 
+
+_I am building an app for skin analysis on top a privacy technology. Welcome to any thought and advice if you would like to share. Feel free to send me an email to emma@blueskinx.com_
+
+
 Further readings:
 
 
