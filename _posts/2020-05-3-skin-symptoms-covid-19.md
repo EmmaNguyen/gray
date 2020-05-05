@@ -3,7 +3,7 @@ layout: post
 title: Symtomps of COVID-19 on skin?  
 description: New evidence in late March and April.
 summary:  New evidence in late March and April.
-tags: [ai, summary, TrustworthyAI]
+tags: [summary, COVID19]
 ---
 
 Today, there were around 3.51M people around the world confirmed of getting infected by COVID-19. A third of those were recovered and nearly 250K deaths. After four months, more evidence has been collected. The previous common known symptoms are fever, tiredness and dry cough. Some others could be aches and pain, nasal congestion, runny nose, sore throat, diarrhoea. A few uncommon could be a loss of smell and scene. 
@@ -49,7 +49,7 @@ Recently, a group of dermatologists in Belgium and the US has detected a new sym
 
 
 *   Patients with COVID-19 toes are reported with mild or asymptomatic cases.
-*   Too early to say about a causality whether it is caused by a virus or a reaction pattern of ramped-up immune system caused by any disease . What we know is a sudden increase in the number of case reports.
+*   *Too early to say about a causality whether it is caused by a virus or a reaction pattern of ramped-up immune system caused by any disease* . What we know is a sudden increase in the number of case reports.
 
 
 ## Unknown questions
