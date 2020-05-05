@@ -12,6 +12,7 @@ Recently, a group of dermatologists in Belgium and the US has detected a new sym
 
 
 [](https://emmablogimg.s3.amazonaws.com/2020-05-05/covid19_toes.jpeg)
+
 ## Overall statistics
 
 
