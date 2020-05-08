@@ -73,7 +73,7 @@ Recently, a group of dermatologists in Belgium and the US has detected a new sym
 
 
 *   American Academy of Dermatology: More evidence reported by dermatologists via an online registry of 300 patients this week.
-
+*   Update(6/5): There was more than 400 reports from 21 countries. A half of those are cases of COVID toes.
 
 _I am building an app for skin analysis on top a privacy technology. Welcome to any thought and advice if you would like to share. Feel free to send me an email to emma@blueskinx.com_
 
@@ -84,4 +84,5 @@ Further readings:
 
 1. Writer, R. (2020). More than 'covid toes': Numerous reports of skin rashes tied to COVID-19. Retrieved 5 May 2020, from [https://www.livescience.com/skin-rashes-covid-19-symptoms.html](https://www.livescience.com/skin-rashes-covid-19-symptoms.html)
 2. Freeman, E. E., McMahon, D. E., Fitzgerald, M. E., Fox, L. P., Rosenbach, M., Takeshita, J., French, L. E., Thiers, B. H. and Hruza, G. J. Freeman, Esther E. et al. "The AAD COVID-19 Registry: Crowdsourcing Dermatology In The Age Of COVID-19". _Journal Of The American Academy Of Dermatology_, 2020. _Elsevier BV_, doi:10.1016/j.jaad.2020.04.045. Accessed 5 May 2020.
-3. [https://www.washingtonpost.com/health/2020/04/29/coronavirus-rashes-toes/](https://www.washingtonpost.com/health/2020/04/29/coronavirus-rashes-toes/)
+3. [Washington Post 29/4/2020](https://www.washingtonpost.com/health/2020/04/29/coronavirus-rashes-toes/)
+4. [NPR 6/5/2020](https://www.npr.org/sections/goatsandsoda/2020/05/06/850707907/from-loss-of-smell-to-covid-toes-what-experts-are-learning-about-symptoms)
