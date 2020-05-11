@@ -39,7 +39,7 @@ Here is my whacky documentation for common issues. Hope it will help you with th
 
 # The bad & ugly
 
-Most of issues in the below is related to `flutter doctor -v`, a command to diagnize issues of running `flutter`
+Most of issues in the below is related to `flutter doctor -v`, a command to diagnose issues of running `flutter`.
 
 
 ### **Set up a direct path for flutter**
