@@ -1,128 +1,51 @@
 ---
 layout: post
-title: How to survive with Flutter Installation 
+title: How to survive with Flutter Installation
 description: A whacky documentation.
 summary:  A whacky documentation.
 tags: [documentation, technical]
 ---
 
-It is not hard to build a simple native mobile Android app on Linux. But installation of Kotline and Flutter is very tricky. For me, it takes up to 3 days, 15-page of documentation for 1 hour of tutorial. What a relentless effort.
+It is not hard to build a simple native mobile Android app on Linux. But installation of [Kotlin](https://developer.android.com/studio) and [Flutter](https://flutter.dev/) is very tricky. For me, it takes up to 3 days, 15-page of documentation for 1 hour of tutorial. What a relentless effort.
 
-Here is my whacky documentation for common issues. Hope it will help you with the first steps for Ubuntu 18.04/ 20.04, especially Android starter.
+Here is my whacky documentation for common issues. Hope it will help you with the first steps for Ubuntu 18.04/ 20.04, especially as an Android starter.
 
 
-# The good 
+# The good
 
 **Highly recommendation:**
-
-
-
 *   Ideally, your setup should be 8. Check the Java version by
 
     ```
-
-
     sudo update-alternatives --config java
 
-
     ```
-
-
     If you don’t have any version, try:
-
-
     ```
-
-
     sudo apt install openjdk-8-jdk-headless
-
-
     ```
-
 
     And remember to set up in .bashrc. For example
-
-
     ```
-
-
     export $JAVA_HOME= /usr/lib/jvm/java-8-openjdk-amd64
-
-
     ```
 
 *   Install Android Studio (Kotline) from the website, not the snap provided by App Store in ubuntu.
 
 
 
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image1.png )
+![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image11.png )
 
 
 
 # The bad & ugly
 
-
-It is not hard to build a simple native mobile Android app on Linux. But installation of Kotline and Flutter is very tricky. For me, it takes up to 3 days, 15-page of documentation for 1 hour of tutorial. What a relentless effort.
-
-Here is my whacky documentation for common issues. Hope it will help you with the first steps for Ubuntu 18.04/ 20.04, especially Android starter.
-
-
-# The good 
-
-**Highly recommendation:**
-
-
-
-*   Ideally, your setup should be 8. Check the Java version by
-
-    ```
-
-
-    sudo update-alternatives --config java
-
-
-    ```
-
-
-    If you don’t have any version, try:
-
-
-    ```
-
-
-    sudo apt install openjdk-8-jdk-headless
-
-
-    ```
-
-
-    And remember to set up in .bashrc. For example
-
-
-    ```
-
-
-    export $JAVA_HOME= /usr/lib/jvm/java-8-openjdk-amd64
-
-
-    ```
-
-*   Install Android Studio (Kotline) from the website, not the snap provided by App Store in ubuntu.
-
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image2.png )
-
-
-
-# The bad & ugly
-
-Most of issues in the below is related to `flutter doctor`
+Most of issues in the below is related to `flutter doctor -v`, a command to diagnize issues of running `flutter`
 
 
 ### **Set up a direct path for flutter**
 
-Description
-
-After installing from source, you can not call `flutter doctor`
+Description is after installing from source, you can not call `flutter doctor`
 
 Solution
 
@@ -138,11 +61,11 @@ Then, run
 
 ```
 
-. ~/.profile 
+. ~/.profile
 
 ```
 
-Or 
+Or
 
 ```
 
@@ -186,7 +109,7 @@ Description
 
 ```
 
-Solution
+Solution**:**
 
 Add these line into your `~/.bashrc`
 
@@ -213,9 +136,11 @@ export PATH=$ANDROID_SDK_ROOT/cmdline-tools/tools/bin:$PATH
 
 ```
 
+
 ### **Issue of sdk manager with `java.lang.IllegalArgumentException`**
 
 ```
+
  at com.android.sdklib.tool.sdkmanager.SdkManagerCliSettings.&lt;init>(SdkManagerCliSettings.java:428)
 
         at com.android.sdklib.tool.sdkmanager.SdkManagerCliSettings.createSettings(SdkManagerCliSettings.java:152)
@@ -236,7 +161,7 @@ Try to search for `chmod 777` or `chmod 775`
 
 ### **Android license status unknown.**
 
-``` 
+```
 
      Try re-installing or updating your Android SDK Manager.
 
@@ -244,12 +169,11 @@ Try to search for `chmod 777` or `chmod 775`
 
 ```
 
-Try to solve by Android studio or sdk 
+Try to solve by Android studio or `sdk`
 
 
-### 
 
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image2.png )
+![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image1.png )
 
 
 
@@ -269,7 +193,7 @@ Description
 
 Solution
 
-Run `flutter doctor --android-licenses` and accept `Y` for all terms. 
+Run `flutter doctor --android-licenses` and accept `Y` for all terms.
 
 You might enter a warning `Warning: File /home/emma/.android/repositories.cfg could not be loaded..` which makes all `Y` not recorded.
 
@@ -290,7 +214,7 @@ mkdir -p .android && touch ~/.android/repositories.cfg
 
 ```
 
-If it does not work, let us try to make sure you have Java 8 and SDKmanager, and try 
+If it does not work, let us try to make sure you have Java 8 and SDKmanager, and try
 
 ```
 
@@ -301,11 +225,12 @@ Sudo yes | sdkmanager --liscenses
 
 ### **ANOTHER TIME, STILL NOT**
 
-Go to android studio and check 
-
+Go to android studio and check
+```
 sudo update-alternatives --config java
 
 unset JAVA_OPTS
+```
 
 At line 31 of your file im `/path/to/android-sdk/cmdline-tools/latest/bin/sdkmanager`
 
@@ -326,14 +251,11 @@ sudo /usr/lib/android-sdk/cmdline-tools/latest/bin/sdkmanager --licenses
 At the end, try this [https://stackoverflow.com/questions/54287619/could-not-find-or-load-main-class-java-se-ee-while-running-sdkmanager-licenc](https://stackoverflow.com/questions/54287619/could-not-find-or-load-main-class-java-se-ee-while-running-sdkmanager-licenc)
 
 
-### 
-
-
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image3.png )
+![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image6.png )
 
 
 
-### **A forever waiting **
+### A forever waiting
 
 Description
 
@@ -359,11 +281,10 @@ flutter config --android-studio-dir /usr/bin/android-studio
 ```
 
 
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image4.png )
+![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image13.png)
 
 
-
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image5.png )
+![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image14.png )
 
 
 
@@ -372,18 +293,16 @@ flutter config --android-studio-dir /usr/bin/android-studio
 [https://dart.dev/get-dart](https://dart.dev/get-dart)
 
 
-
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image6.png )
+![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image9.png )
 
 
 Go to the Android studio and fill it with the flutter sdk and restart.
 
 
+![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image3.png )
 
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image7.png )
 
-
-Still not work, 
+Still not work,
 
 I tried the not `sudo` mode for Android and restart the studio.
 
@@ -392,15 +311,15 @@ I tried the not `sudo` mode for Android and restart the studio.
 
 Try
 
-
 ```
 sudo chmod 777 directory
 ```
 
 
-
 ### **Android license status unknown when trying to accept licenses.**
-```
+
+ ```
+
 Android license status unknown.
 
       Try re-installing or updating your Android SDK Manager.
@@ -429,7 +348,7 @@ unset JAVA_OPTS
 
 ```
 
-Run 
+Run
 
 ```
 
@@ -443,43 +362,36 @@ Run
 Create an emulator by going to android studio. Look at the top of the user interface and search for the icon
 
 
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image8.png )
+![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image12.png )
 
 
 Choose create a new device by the following steps:
 
 
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image9.png )
+![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image7.png )
 
 
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image10.png )
+![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image8.png )
 
 
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image11.png )
-
-
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image12.png )
+![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image4.png )
 
 
 Restart and IDE and check the below box
 
 
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image13.png )
+
+![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image5.png )
 
 
-![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image14.png )
 
+![](https://emmablogimg.s3.amazonaws.com/2020-05-11-kotlin-and-flutter/image2.png )
 
 
 # Done!
 
 Some take-away:
 
-
-
 *   Java 8 is still the king in the ecosystem despite the latest version 11 was released 6 years behind.
-*   Highly recommend using `Maven` or `Bazel` to deploy any source code. At least it will help you deal with problems with dependencies much less painfully. 
+*   Highly recommend using `Maven` or `Bazel` to deploy any source code. At least it will help you deal with problems with dependencies much less painfully.
 *   For developer software in Linux, it is better to install from source code than `snap` distributed in the App Store.
-Most of issues in the below is related to `flutter doctor`
-
-
