@@ -14,8 +14,7 @@ Here is my whacky documentation for common issues. Hope it will help you with th
 # The good
 
 **Highly recommendation:**
-*   Ideally, your setup should be 8. Check the Java version by
-
+*  Ideally, your setup for `Java` should be version 8. Check the Java version by
     ```
     sudo update-alternatives --config java
 
