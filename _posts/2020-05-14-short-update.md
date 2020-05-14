@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Update COVID-19 syndromes.
-description: A rare and new condition.
-summary:  A rare and new condition.
+title: Update COVID-19 syndrome
+description: A rare and new conditions on a whole body.
+summary:  A rare and new conditions on a whole body.
 tags: [note, COVID19]
 ---
 
