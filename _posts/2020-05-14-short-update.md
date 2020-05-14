@@ -33,3 +33,5 @@ tags: [note, COVID19]
 *   Another example is [a 38-year-old man](https://edition.cnn.com/2020/05/12/health/coronavirus-symptoms-blood-clots-inflammation/index.html) was diagnosed with COVID-19. He shows very light and mild symptoms until one day he can not walk. His legs become numb and cold.
 
 ![alt_text](https://emmablogimg.s3.amazonaws.com/2020-05-14-short-update/image2.png)
+
+_I am building an app for skin analysis on top a privacy technology. Welcome to any thought and advice if you would like to share. Feel free to send me an email to emma@blueskinx.com_
