@@ -33,18 +33,18 @@ The hot trend of this year is GPT-3 produced by Open AI, soon-to-be a product co
 
 # The future
 
-**TL;DR: with 5-10M and minGPT-3, you can replicate the work at home.**
+**TL;DR: with $5-10M and minGPT-3, you can replicate the work at home.**
 
 Discussion about Andrey Karpathy's open source of min-GPT-3 with panelist.
 
 The source code includes the most basic structure of GPT-3 based on previous versions. In overall perception of demos, people changes the prompt to have different answers but not the weights of model. In one scenario, different kinds of GPT-3 can be trained by anyone at home.
 
-One of the concerns is about the complexity of training such a super large model with optimization, distributing computing, data center and data processing with ETL. Nevertheless, people can continue to fine-tuned pre-trained model with other data set. It would be a shift between a feature engineering to prompt engineering. And leads a possibility of open Wikipedia 2.0.
+One of the concerns is about the complexity of training such a super large model with optimization, distributing computing, data center and data processing with ETL. Nevertheless, people can continue to fine-tuned pre-trained model with other data set. It would be a shift between a feature engineering to prompt engineering. And leads to a possibility of open Wikipedia 2.0.
 
 # Closing
 
 I still remembered a conversation from top researchers and engineers in the conference that year. It was about a new kind of programming without code, but a block of cognitive services similar to play lego. The progress was still slow and only open to small selective community in North America.
 
-The future is approaching very close to majority, probably it is the best highlight for an economical downturn caused by a Pandemic. Likely, we are entering a new dawn of real AI economy emergence when people can't go to work and travel, universal basic income, most of business going online on the internet with a global effect.
+The future is approaching very close to majority, probably it is the best highlight for an economical downturn caused by a Pandemic. Likely, we are entering to a new dawn of real AI economy emergence when people can't go to work and travel, universal basic income, most of business going online on the internet with a global effect.
 
 When you fail, make it a dance.
