@@ -3,7 +3,7 @@ layout: post
 title: GPT-3 Reflection
 description: Industry perspective from projects and companies.
 summary:  Industry perspective from projects and companies.
-tags: [reflection, gpt3, ai]
+tags: [reflection,gpt3,ai]
 ---
 # The past
 
