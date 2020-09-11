@@ -42,8 +42,8 @@ On March 11th, I launched a site called trackcovid19.tech. Another time, this co
 
 It is where I put summaries of the WHO, highlights of the world, common Frequent Question Answer based on personal stories in my network. I want to reduce the friction of communicating about CoViD-19 to a public audience. Similar to climate change, help them understand how science works and CoViD-19 topics, then take early actions.
 
-So far, we were able to reach nearly 400 people around the world in 28 countries, mainly from the US. And we hope to expand this community to a broader audience to join the force and find more solutions for CoViD-19.
+So far, we were able to reach more than 2500 people around the world in 120 countries, mainly from the US. And we hope to expand this community to a broader audience to join the force and find more solutions for CoViD-19.
 
-![](https://emmablogimg.s3.amazonaws.com/Selection_026.png)
+![](https://emmablogimg.s3.amazonaws.com/120countries.png)
 
 I hope that this will help you learn more about me and BlueSkinX. Hello! Thanks for choosing us!
